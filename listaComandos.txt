@@ -1,2 +1,5 @@
 GIT:CLONE=<Sirve para clonar el repositorio remoto.>
 GIT:COMMIT=<Guarda los cambios efectuados en el archivo con un mensaje.>
+GIT:PUSH=<Sube los commits locales al repositorio remoto.>
+GIT:STATUS=<Muestra el estado de los archivos.>
+GIT:ADD=<Agrega los archivos seleccionados al commit.>
