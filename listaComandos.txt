@@ -1,1 +1,2 @@
 GIT:CLONE=<Sirve para clonar el repositorio remoto.>
+GIT:COMMIT=<Guarda los cambios efectuados en el archivo con un mensaje.>
