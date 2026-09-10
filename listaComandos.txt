@@ -1,0 +1,1 @@
+GIT:CLONE=<Sirve para clonar el repositorio remoto.>
